@@ -1,4 +1,7 @@
 hello,word
+<<<<<<< HEAD
 hello,python
 hello,java
 
+=======
+>>>>>>> parent of 3468ca8... hello world
